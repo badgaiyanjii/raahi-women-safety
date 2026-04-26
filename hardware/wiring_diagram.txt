@@ -1,0 +1,21 @@
+Arduino Nano Connections:
+
+SIM800L GSM:
+TX → D2
+RX → D3
+VCC → External 4V supply
+GND → GND
+
+Neo-6M GPS:
+TX → D4
+RX → D5
+VCC → 5V
+GND → GND
+
+Push Button:
+One side → D7
+Other → GND
+
+Buzzer:
++ → D8
+- → GND
